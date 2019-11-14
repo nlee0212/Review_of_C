@@ -1,0 +1,6 @@
+﻿  buffer.c
+c:\users\이나연\desktop\이나연\서강대\fastcampus\올인원패키지\c언어\10강\191004\191004\buffer.c(7): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(1274): note: 'scanf' 선언을 참조하십시오.
+c:\users\이나연\desktop\이나연\서강대\fastcampus\올인원패키지\c언어\10강\191004\191004\buffer.c(13): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(1274): note: 'scanf' 선언을 참조하십시오.
+  191004.vcxproj -> C:\Users\이나연\Desktop\이나연\서강대\FASTCAMPUS\올인원패키지\C언어\10강\191004\Debug\191004.exe
